@@ -1,6 +1,7 @@
 # Fresh Check
 
 A sophisticated AI-powered web application for food freshness detection using machine learning and Google Gemini integration.
+Devpost: https://devpost.com/software/freshcheck-l8mphj
 
 ## 🚀 Quick Start
 
